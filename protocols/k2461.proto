@@ -1,0 +1,6 @@
+Terminator = CR LF;
+
+setCurrLim {
+    out "SOUR:VOLT:ILIM %.2f";
+}
+

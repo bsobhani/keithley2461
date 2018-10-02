@@ -1,0 +1,6 @@
+file "../../db/misc.db" {
+  pattern
+    {P,  M,  ADDR,  MRES,  DESC,  EGU}
+    {alexHost:,  keithley2461Volt,  0,  "1e-7", "Voltage", "V"}
+    {alexHost:,  keithley2461Curr,  1,  "1e-7", "Current", "A"}
+}

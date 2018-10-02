@@ -1,0 +1,9 @@
+record(motor,"$(P)$(M)Mtr"){
+	field(OUT,"@asyn(motor,$(ADDR))")
+	field(DTYP, asynMotor)
+	field(RTRY, "0")
+	field(PREC, "8")
+	field(MRES, "$(MRES)")
+	field(DESC, "$(DESC)")
+	field(EGU, "$(EGU)")
+}

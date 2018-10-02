@@ -1,0 +1,7 @@
+epicsEnvSet("ARCH","linux-x86_64")
+epicsEnvSet("IOC","iockeithley2461")
+epicsEnvSet("TOP","/home/alex/iocs/keithley2461")
+epicsEnvSet("MOTOR","/home/alex/iocs/motor-keithley2461")
+epicsEnvSet("ASYN","/usr/lib/epics")
+epicsEnvSet("STREAM","/usr/lib/epics")
+epicsEnvSet("EPICS_BASE","/usr/lib/epics")
